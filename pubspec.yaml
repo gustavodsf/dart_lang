@@ -1,0 +1,11 @@
+name: unisaojose
+description: projeto exemplo
+
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+
+#dependencies:
+#  path: ^1.7.0
+
+dev_dependencies:
+  test: ^1.14.4
